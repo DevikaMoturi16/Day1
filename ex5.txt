@@ -1,0 +1,4 @@
+this is text file 
+and it may contain any type of data
+either  text or numerical data
+
